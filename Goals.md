@@ -14,4 +14,5 @@ Building on the technology and platform we hope to design, our hope is that we w
 
 Our journey is not a short one by any means and the effort required to build a secure, safe, and stable platform is substantial. We welcome the involvement, review, and feedback of ZumCoin users and developers, and the extended cryptocurrency community, as we continue to design, implement, and support the ZumPay™ project.
 
+###### (c) 2018 TurtlePay™ Development Team
 ###### (c) 2019 ZumPay™ Development Team
