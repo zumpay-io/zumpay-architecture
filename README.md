@@ -15,4 +15,5 @@ Please take a look around and ask questions via issues, comments on files, or fi
 |[Roadmap.md](https://github.com/zumpay-io/zumpay-architecture/blob/master/Roadmap.md)|Project Roadmap|
 |[Architecture.md](https://github.com/zumpay-io/zumpay-architecture/blob/master/Architecture.md)|Service Delivery Architecture|
 
+###### (c) 2018 TurtlePay™ Development Team
 ###### (c) 2019 ZumPay™ Development Team
