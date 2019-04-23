@@ -48,4 +48,5 @@ Phase 2 will consist of the completion of the following items:
 
 TBD
 
+###### (c) 2018 TurtlePay™ Development Team
 ###### (c) 2019 ZumPay™ Development Team
