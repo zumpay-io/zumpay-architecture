@@ -6,4 +6,5 @@ To facilitate wallet scanning, the following database schema has been created to
 
 ![Zum Blockchain Database Storage System](https://i.imgur.com/vM1xlpJ.png)
 
+###### (c) 2018 TurtlePay™ Development Team
 ###### (c) 2019 ZumPay™ Development Team
